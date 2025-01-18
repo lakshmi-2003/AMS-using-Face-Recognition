@@ -9,19 +9,19 @@ The Attendance Management System is a Python-based application that leverages fa
 * User-Friendly Interface: Built with Tkinter for a simple and intuitive user experience.
 * Scalability: Can be extended to support larger groups and multiple use cases (e.g., schools, offices).
 # Tech Stack:
-Programming Language: Python
-Libraries: OpenCV, NumPy, Pandas, Tkinter
+Programming Language: Python<br>
+Libraries: OpenCV, NumPy, Pandas, Tkinter<br>
 Storage: Excel sheets (using Pandas for data management)
 # Setup Instructions:
-# 1. Clone the repository:
+1. Clone the repository:
   git clone https://github.com/lakshmi-2003/AMS-using-Face-Recognition.git
-# 2. Install dependencies:
+2. Install dependencies:
   pip install -r requirements.txt 
-# 3. Install the required libraries:
+3. Install the required libraries:
   pip install opencv-python
   pip install pandas
   pip install numpy  
-# 4. Run the application:
+4. Run the application:
   python main.py  
 Follow on-screen instructions to register faces and start tracking attendance.
 # Future Enhancements:
