@@ -17,7 +17,7 @@ Storage: Excel sheets (using Pandas for data management)
   git clone https://github.com/lakshmi-2003/AMS-using-Face-Recognition.git
 2. Install dependencies:
   pip install -r requirements.txt 
-3. Install the required libraries:
+3. Install the required libraries:<br>
   pip install opencv-python<br>
   pip install pandas<br>
   pip install numpy  
