@@ -18,8 +18,8 @@ Storage: Excel sheets (using Pandas for data management)
 2. Install dependencies:
   pip install -r requirements.txt 
 3. Install the required libraries:
-  pip install opencv-python
-  pip install pandas
+  pip install opencv-python<br>
+  pip install pandas<br>
   pip install numpy  
 4. Run the application:
   python main.py  
