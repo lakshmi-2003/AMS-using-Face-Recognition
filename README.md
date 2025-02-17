@@ -13,15 +13,15 @@ Programming Language: Python<br>
 Libraries: OpenCV, NumPy, Pandas, Tkinter<br>
 Storage: Excel sheets (using Pandas for data management)
 # Setup Instructions:
-1. Clone the repository:
+1. Clone the repository:<br>
   git clone https://github.com/lakshmi-2003/AMS-using-Face-Recognition.git
-2. Install dependencies:
+2. Install dependencies:<br>
   pip install -r requirements.txt 
 3. Install the required libraries:<br>
   pip install opencv-python<br>
   pip install pandas<br>
   pip install numpy  
-4. Run the application:
+4. Run the application:<br>
   python main.py  
 Follow on-screen instructions to register faces and start tracking attendance.
 # Future Enhancements:
